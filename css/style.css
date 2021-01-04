@@ -675,7 +675,7 @@ border-color: transparent #dddddd transparent transparent;
 
 .footer {
   padding: 0 0 4rem 0;
-  margin-top: 20px;
+  margin-top: auto;
 }
 
 .footer a {
